@@ -1,0 +1,11 @@
+.home {
+    height: 100%;
+}
+
+.screenRender {
+    background-color: blue;
+    width: fit-content;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
